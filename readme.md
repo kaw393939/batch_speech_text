@@ -1,10 +1,3 @@
-Here's a detailed and professional `README.md` file tailored for your project. It provides clear instructions, setup guidelines, and links to the `LICENSE` file.
-
----
-
-## README.md
-
-```markdown
 # Text-to-Speech Batch Processor
 
 This Python project uses the OpenAI API to convert text files into high-quality speech audio files. It supports batch processing of multiple text files, chunking for large files, and parallel processing for optimal performance. 
@@ -101,4 +94,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - [OpenAI](https://openai.com) for the Text-to-Speech API.
 - [Python Poetry](https://python-poetry.org/) for dependency management.
 - [FFmpeg](https://ffmpeg.org/) for audio processing.
-```

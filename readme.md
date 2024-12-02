@@ -102,19 +102,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - [Python Poetry](https://python-poetry.org/) for dependency management.
 - [FFmpeg](https://ffmpeg.org/) for audio processing.
 ```
-
----
-
-### Key Highlights:
-1. **Comprehensive Setup Instructions**:
-   - Detailed installation steps with `Poetry`.
-   - FFmpeg installation for various platforms.
-
-2. **Usage Guide**:
-   - Clear instructions for running the project.
-
-3. **Configuration Details**:
-   - Explanation of all `.env` variables for customization.
-
-4. **Link to License**:
-   - [Mit License](LICENSE) 
